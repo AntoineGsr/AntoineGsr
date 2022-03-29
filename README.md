@@ -28,6 +28,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&hide_border=true&locale=en&layout=compact" alt="antoinegsr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&locale=en&layout=compact" alt="antoinegsr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=radical&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=radical&title_color=9a19eb&text_color=ab59df&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
+
