@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **cysec && web && software development**
 
-- 📫 How to reach me **antoine.gasser@epitech.eu**
+- 📫 Contact me on **antoine.gasser@epitech.eu**
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
@@ -21,7 +21,7 @@
 <!--
 <a href="https://dev.to/antoinegsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="antoinegsr" height="30" width="40" /></a>
 -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antoine-gasser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoine-gasser/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antoine-gasser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-gasser/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
