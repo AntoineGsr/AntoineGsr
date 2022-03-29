@@ -28,6 +28,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
 
-<p><img align="left" src="https://camo.githubusercontent.com/dc89ed518e037563fc4344c78d682dcc8998533abde9790bea0d9c007f9b4b43/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4175746f737566666973616e7426636f756e745f707269766174653d74727565267468656d653d7261646963616c2673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="antoinegsr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&hide_border=true&locale=en&layout=compact" alt="antoinegsr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=radical&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=dracula&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
