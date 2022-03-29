@@ -29,6 +29,7 @@
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=dracula&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
