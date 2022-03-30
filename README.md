@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
-<h3 align="center">A 2nd year student @Epitech <img class="emoji" alt="cd" src="./assets/epitech_logo.png" width="20" height="20"></h3>
+<h3 align="center">A 2nd year student @Epitech</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinegsr" alt="antoinegsr" /></a> </p>
