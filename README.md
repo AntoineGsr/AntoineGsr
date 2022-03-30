@@ -12,7 +12,7 @@
 - 📫 Contact me on **antoine.gasser@epitech.eu**
 
 <hr style="width:50%"> 
-<h4 align="left">My Skills:</h4>
+<h3 align="left">My Skills:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
 </p>
 
 <hr style="width:50%"> 
-<h4 align="left">Some stats about my work:</h4>
+<h3 align="left">Some stats about my work:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=dracula&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
