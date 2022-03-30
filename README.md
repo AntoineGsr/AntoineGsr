@@ -5,7 +5,7 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinegsr" alt="antoinegsr" /></a> </p>
 -->
-- ⚡ I’m a basketball passionate and I'm supporting the [Golden State Warriors](https://www.nba.com/warriors/)
+- ⚡ I’m a basketball passionate and I'm supporting the [Golden State Warriors](https://www.nba.com/warriors/)  <img class="emoji" alt="cd" src="./assets/warriors.png" width="20" height="20">
 
 - 🌱 I’m currently learning **cysec && web && software development**
 
