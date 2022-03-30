@@ -7,7 +7,7 @@
 -->
 - ⚡ I’m a basketball passionate and I'm supporting the [Golden State Warriors](https://www.nba.com/warriors/)  <img class="emoji" alt="cd" src="./assets/warriors.png" width="20" height="20">
 
-- 🌱 I’m currently learning **cysec && web && software development**
+- <img class="emoji" alt="cd" src="./assets/warriors.png" width="20" height="20"> I’m currently learning **cysec && web && software development**
 
 - 🌱 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
