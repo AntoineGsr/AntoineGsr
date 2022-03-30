@@ -40,7 +40,11 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&hide_border=true&locale=en&layout=compact" alt="antoinegsr" /></p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr style="width:50%"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
