@@ -1,16 +1,13 @@
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h1 align="center">A 2nd year student @Epitech</h1>
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinegsr" alt="antoinegsr" /></a> </p>
--->
 - ⚡ I’m a basketball passionate and I'm supporting the [Golden State Warriors](https://www.nba.com/warriors/)  <img class="emoji" alt="cd" src="./assets/warriors.png" width="20" height="20">
 
 - 🖥️ I’m currently learning **cysec && web && software development**
 
 - 👤 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
-- ⚠️ Epitech's student reading this, swear your intentions are good (don't copy/paster my code) or go your way.
+- ⚠️ Epitech's student reading this, swear your intentions are good (don't copy/paste my code) or go your way.
 
 - 📫 Contact me on **antoine.gasser@epitech.eu**
 
