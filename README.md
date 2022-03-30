@@ -45,6 +45,7 @@
 <br>
 <br>
 <br>
+<br>
 <hr style="width:50%"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
