@@ -37,7 +37,12 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&hide_border=true&locale=en&layout=compact" alt="antoinegsr" /></p>
-<br>
+
+
+
+
+
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/antoine-gasser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-gasser/" height="30" width="40" /></a>
