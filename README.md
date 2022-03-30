@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **cysec && web && software development**
 
-- 🌱 
+- 🌱 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
 - 📫 Contact me on **antoine.gasser@epitech.eu**
 
