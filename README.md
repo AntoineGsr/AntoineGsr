@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 2nd year student @Epitech</h3>
 
