@@ -11,7 +11,7 @@
 
 - 🌱 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
-- 🚫 Epitech's student reading this, swear your intentions are good (don't copy/paster my code) or go your way.
+- ⚠️ Epitech's student reading this, swear your intentions are good (don't copy/paster my code) or go your way.
 
 - 📫 Contact me on **antoine.gasser@epitech.eu**
 
