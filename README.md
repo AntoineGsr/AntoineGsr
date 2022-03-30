@@ -1,21 +1,5 @@
 ### Hi there 👋
 
-<head> 
-    <title> 
-        HTML border Property
-    </title> 
-      
-    <!-- style to create vertical line -->
-    <style>
-        .vertical {
-            border-left: 6px solid black;
-            height: 200px;
-            position:absolute;
-            left: 50%;
-        }
-    </style>
-</head>
-
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 2nd year student @Epitech</h3>
 
