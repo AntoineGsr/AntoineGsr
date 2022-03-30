@@ -33,7 +33,7 @@
 </p>
 
 <hr style="width:50%"> 
-<h3 align="left">Some stats about my work:</h3>
+<h3 align="left">Some stats about me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=dracula&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
