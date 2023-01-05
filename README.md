@@ -1,9 +1,7 @@
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 2nd year student @Epitech</h3>
 
-- 🏀 I’m a basketball passionate and I'm supporting the [Golden State Warriors](https://www.nba.com/warriors/)  <img class="emoji" alt="cd" src="./assets/warriors.png" width="20" height="20">
-
-- 🖥️ I’m currently learning **cysec && web && software development**
+- 🖥️ I’m currently learning **web && software development**
 
 - 👤 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
