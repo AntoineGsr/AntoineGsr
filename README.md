@@ -29,21 +29,6 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-
-<hr style="width:50%"> 
-<h3 align="left">Some stats about me:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegsr&label=Profile%20views&color=9a19eb&style=flat" alt="antoinegsr" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinegsr&show_icons=true&theme=dracula&title_color=9a19eb&text_color=ab59df&hide_border=true&cache_seconds=1800&locale=en" alt="antoinegsr" /></p>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoinegsr&show_icons=true&theme=merko&title_color=9a19eb&text_color=ab59df&hide_border=true&locale=en&layout=compact" alt="antoinegsr" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <hr style="width:50%"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
