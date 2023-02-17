@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 3rd year student @Epitech</h3>
 
-- 🖥️ I’m currently learning **web && software development**
+- 🖥️ I’m freelance in web dev, integration web and DevOps. I'm currently learning **web && software development**
 
 - 👤 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
 
