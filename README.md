@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 3rd year student @Epitech</h3>
 
-- 🖥️ I’m freelance in web development. I'm currently learning **web && software development**
+- 🖥️ I’m freelance in **web development**.
 
 <hr style="width:50%"> 
 <h3 align="left">My Skills:</h3>
