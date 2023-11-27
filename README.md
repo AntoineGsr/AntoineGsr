@@ -1,13 +1,7 @@
 <h1 align="center">Hello world, I'm Antoine  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20"></h1>
 <h3 align="center">A 3rd year student @Epitech</h3>
 
-- 🖥️ I’m freelance in web dev, integration web and DevOps. I'm currently learning **web && software development**
-
-- 👤 My github profile lists a part of the projects that I had to code during my studies at Epitech, as well as that I developed for myself and to improve knowledge
-
-- ⚠️ Epitech's student reading this, swear your intentions are good (don't copy/paste my code) or go your way.
-
-- 📫 Contact me on **antoine.gasser@epitech.eu**
+- 🖥️ I’m freelance in web development. I'm currently learning **web && software development**
 
 <hr style="width:50%"> 
 <h3 align="left">My Skills:</h3>
