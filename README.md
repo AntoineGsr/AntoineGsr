@@ -25,4 +25,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antoine-gasser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoine-gasser/" height="30" width="40" /></a>
+ <a href="https://gitlab.com/AntoineGsr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/GitLab-logo.svg" alt="AntoineGsr" height="30" width="40" /></a>
 </p>
