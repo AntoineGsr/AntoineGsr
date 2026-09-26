@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hello world, I'm Antoine  
-  <img class="emoji" alt="cd" src="./assets/custom_emoji_elliot.png" width="20" height="20">
+  Hello world, I'm Antoine
 </h1>
 
 <h2 align="center">
